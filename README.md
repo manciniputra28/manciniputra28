@@ -1,16 +1,32 @@
-### Hi there 👋
+# Mancini Putra
 
-<!--
-**manciniputra28/manciniputra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Mancini Putra, a High-School student based Indonesia.
 
-Here are some ideas to get you started:
+## About Me
+I am a Student with a passion for Making Minecraft Plugins and Creating Communities. I love Watching Anime mostly, and I am constantly exploring new technologies and learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/manciniputra28)
+
+## Technology Stack
+Here are some of the technologies and tools that I'm currently exploring or interested in:
+
+- 🔍 Artificial Intelligence
+- 🔍 Trading and Stocks
+- 🔍 Linux System Administration
+
+## Current Projects
+- 🌱 [none]
+- 🌱 [none]
+
+## Contact Me
+- 📧 Email: [manciniputra@voyagers.one](mailto:manciniputra@voyagers.one)
+- 📷 Instagram: [@manciniputra.official](https://www.instagram.com/manciniputra.official/)
+- 🐦 Twitter: [@ManciniPutra](https://x.com/manciniputra)
+
+## My Git Score
+[![My Git Score](https://gitwar.herokuapp.com/badge?username=YourGitHubUsername&label=Git%20Score&style=flat-square&color=success)](https://gitwar.herokuapp.com/profile/YourGitHubUsername)
+
+Feel free to explore my repositories and connect with me!
+
+Happy coding! 🚀
