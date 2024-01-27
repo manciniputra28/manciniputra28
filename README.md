@@ -25,7 +25,7 @@ Here are some of the technologies and tools that I'm currently exploring or inte
 - 🐦 Twitter: [@ManciniPutra](https://x.com/manciniputra)
 
 ## My Git Score
-[![My Git Score](https://gitwar.herokuapp.com/badge?username=YourGitHubUsername&label=Git%20Score&style=flat-square&color=success)](https://gitwar.herokuapp.com/profile/YourGitHubUsername)
+[![My Git Score](https://gitwar.herokuapp.com/badge?username=manciniputra28&label=Git%20Score&style=flat-square&color=success)](https://gitwar.herokuapp.com/profile/manciniputra28)
 
 Feel free to explore my repositories and connect with me!
 
