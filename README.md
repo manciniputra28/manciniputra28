@@ -6,7 +6,7 @@
 I am a Student with a passion for Making Minecraft Plugins and Creating Communities. I love Watching Anime mostly, and I am constantly exploring new technologies and learning new things.
 
 ## My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/manciniputra28)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=manciniputra28&show_icons=true&theme=radical)](https://github.com/manciniputra28)
 
 ## Technology Stack
 Here are some of the technologies and tools that I'm currently exploring or interested in:
