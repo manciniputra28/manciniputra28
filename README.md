@@ -16,7 +16,7 @@ Here are some of the technologies and tools that I'm currently exploring or inte
 - 🔍 Linux System Administration
 
 ## Current Projects
-- 🌱 [none]
+- 🌱 **WajaMC - Best Minigames Server**
 - 🌱 [none]
 
 ## Contact Me
