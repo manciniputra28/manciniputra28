@@ -1,43 +1,45 @@
-# Mancini Putra
+# 👋 Hi, I'm Mancini Putra
 
-👋 Hi! I'm Mancini Putra — a 19-year-old student developer from Indonesia.
-
----
-
-## About Me
-
-I'm passionate about building web templates, developing Discord bots, and designing internal dashboards. I enjoy learning about networking, Linux systems, and new technologies.  
-Also... I'm a VTuber! 🎙️ (Channel is private for now~)
+I'm a 19-year-old student developer from Indonesia who enjoys building tools, designing templates, and exploring infrastructure. I also create content as a VTuber — channel kept private for now 🎙️
 
 ---
 
-## Tech Interests
+## 🧠 About Me
 
-- Web Development (HTML, CSS, Flask)
-- Discord Bot Development (Python)
-- Networking & Infrastructure
+- 💻 Focused on web development, bot automation, and dashboard design
+- 🌐 Exploring networking, Linux systems, and backend workflows
+- 🎨 Passionate about clean UI, modular layouts, and expressive branding
+- 📺 Anime enjoyer & VTuber-in-progress
+
+---
+
+## 🔧 Tech Stack & Interests
+
+- HTML, CSS, Flask (Web Templates)
+- Python (Discord Bots, Dashboards)
 - Linux System Administration
+- Networking & Infrastructure
 - Artificial Intelligence
 - Financial Technology & Trading
 
 ---
 
-## Projects
+## 🚀 Projects
 
-- 🤖 **Discord Bot** – Custom automation (private use)
-- 🛠️ **Admin Dashboard** – Internal management tool (private)
-- 🎨 **Website Templates** – Clean, responsive layouts
+- 🤖 **Discord Bot** – Private-use automation for moderation and utilities
+- 🛠️ **Admin Dashboard** – Internal tool for managing infrastructure
+- 🎨 **Website Templates** – Responsive, dark-themed layouts for hosting and personal use
 
 ---
 
-## GitHub Highlights
+## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manciniputra28&color=ff6b00)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manciniputra28&layout=compact&theme=tokyonight)
 
 ---
 
-## Contact
+## 📬 Contact
 
 - 📧 Email: [admin@manciniputra.my.id](mailto:admin@manciniputra.my.id)
 - 📷 Instagram: [@manciniputra.official](https://www.instagram.com/manciniputra.official/)
@@ -45,4 +47,4 @@ Also... I'm a VTuber! 🎙️ (Channel is private for now~)
 ---
 
 Thanks for visiting! Feel free to explore my repositories or reach out.  
-Have a great day! 🌸
+Let’s build something cool together ✨
