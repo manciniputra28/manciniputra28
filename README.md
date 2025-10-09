@@ -1,32 +1,48 @@
 # Mancini Putra
 
-👋 Hello! I'm Mancini Putra, a High-School student based Indonesia.
+👋 Hi! I'm Mancini Putra — a 19-year-old student developer from Indonesia.
+
+---
 
 ## About Me
-I am a Student with a passion for Making Minecraft Plugins and Creating Communities. I love Watching Anime mostly, and I am constantly exploring new technologies and learning new things.
 
-## My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=manciniputra28&show_icons=true&theme=radical)](https://github.com/manciniputra28)
+I'm passionate about building web templates, developing Discord bots, and designing internal dashboards. I enjoy learning about networking, Linux systems, and new technologies.  
+Also... I'm a VTuber! 🎙️ (Channel is private for now~)
 
-## Technology Stack
-Here are some of the technologies and tools that I'm currently exploring or interested in:
+---
 
-- 🔍 Artificial Intelligence
-- 🔍 Trading and Stocks
-- 🔍 Linux System Administration
+## Tech Interests
 
-## Current Projects
-- 🌱 **WajaMC - Best Minigames Server**
-- 🌱 [none]
+- Web Development (HTML, CSS, Flask)
+- Discord Bot Development (Python)
+- Networking & Infrastructure
+- Linux System Administration
+- Artificial Intelligence
+- Financial Technology & Trading
 
-## Contact Me
-- 📧 Email: [manciniputra@voyagers.one](mailto:manciniputra@voyagers.one)
+---
+
+## Projects
+
+- 🤖 **Discord Bot** – Custom automation (private use)
+- 🛠️ **Admin Dashboard** – Internal management tool (private)
+- 🎨 **Website Templates** – Clean, responsive layouts
+
+---
+
+## GitHub Highlights
+
+![Profile Views](https://komarev.com/ghpvc/?username=manciniputra28&color=ff6b00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manciniputra28&layout=compact&theme=tokyonight)
+
+---
+
+## Contact
+
+- 📧 Email: [admin@manciniputra.my.id](mailto:admin@manciniputra.my.id)
 - 📷 Instagram: [@manciniputra.official](https://www.instagram.com/manciniputra.official/)
-- 🐦 Twitter: [@ManciniPutra](https://x.com/manciniputra)
 
-## My Git Score
-[![My Git Score](https://gitwar.herokuapp.com/badge?username=manciniputra28&label=Git%20Score&style=flat-square&color=success)](https://gitwar.herokuapp.com/profile/manciniputra28)
+---
 
-Feel free to explore my repositories and connect with me!
-
-Happy coding! 🚀
+Thanks for visiting! Feel free to explore my repositories or reach out.  
+Have a great day! 🌸
