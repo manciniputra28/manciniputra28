@@ -1,50 +1,20 @@
-# 👋 Hi, I'm Mancini Putra
+# Mancini Putra
 
-I'm a 19-year-old student developer from Indonesia who enjoys building tools, designing templates, and exploring infrastructure. I also create content as a VTuber — channel kept private for now 🎙️
+Hi! I'm Mancini Putra, a 19-year-old student developer from Indonesia.
 
----
-
-## 🧠 About Me
-
-- 💻 Focused on web development, bot automation, and dashboard design
-- 🌐 Exploring networking, Linux systems, and backend workflows
-- 🎨 Passionate about clean UI, modular layouts, and expressive branding
-- 📺 Anime enjoyer & VTuber-in-progress
+I focus on web development, Discord bot automation, and internal dashboard design. I'm currently exploring networking, Linux systems, and new technologies. I also create content as a VTuber — channel kept private for now.
 
 ---
 
-## 🔧 Tech Stack & Interests
+## Projects
 
-- HTML, CSS, Flask (Web Templates)
-- Python (Discord Bots, Dashboards)
-- Linux System Administration
-- Networking & Infrastructure
-- Artificial Intelligence
-- Financial Technology & Trading
+- Discord Bot (private use)
+- Admin Dashboard (private use)
+- Website Templates (modular and responsive)
 
 ---
 
-## 🚀 Projects
+## Contact
 
-- 🤖 **Discord Bot** – Private-use automation for moderation and utilities
-- 🛠️ **Admin Dashboard** – Internal tool for managing infrastructure
-- 🎨 **Website Templates** – Responsive, dark-themed layouts for hosting and personal use
-
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=manciniputra28&color=ff6b00)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manciniputra28&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Contact
-
-- 📧 Email: [admin@manciniputra.my.id](mailto:admin@manciniputra.my.id)
-- 📷 Instagram: [@manciniputra.official](https://www.instagram.com/manciniputra.official/)
-
----
-
-Thanks for visiting! Feel free to explore my repositories or reach out.  
-Let’s build something cool together ✨
+📧 Email: [admin@manciniputra.my.id](mailto:admin@manciniputra.my.id)  
+📷 Instagram: [@manciniputra.official](https://www.instagram.com/manciniputra.official/)
