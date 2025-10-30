@@ -1,4 +1,4 @@
-<img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="256" align="right" style="border-radius: 20px;">
+<img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="256" align="right">
 
 # 🌷 Vireya Akane (ヴィレヤ・アカネ)
 
