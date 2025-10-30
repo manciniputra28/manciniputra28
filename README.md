@@ -1,27 +1,25 @@
-<div align="center">
-  <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="400" height="800" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.1);" alt="Vireya Akane Profile Picture">
-  
-  <h1>🌷 Vireya Akane (ヴィレヤ・アカネ)</h1>
-  <em>"Soft doesn’t mean weak. Code can bloom beautifully too." 🌸</em>
+# 🌷 Vireya Akane (ヴィレヤ・アカネ)
 
-  <br><br>
+> *"Soft doesn’t mean weak. Code can bloom beautifully too."* 🌸  
 
-  Hi... I’m <b>Vireya Akane</b>, 19 y/o.  
-  My real name is <b>Mancini Putra</b>, but online I prefer to be known as <b>Vireya Akane</b>.  
-  For business or formal work, you can simply call me <b>Mancini</b>.  
+Hi... I’m **Vireya Akane**, 19 y/o.  
+My real name is **Mancini Putra**, but online I prefer to be known as **Vireya Akane**.  
+For business or formal work, you can simply call me **Mancini**.  
 
-  <br>
+I create websites and small digital worlds quietly, at my own pace.  
+Most of my projects are open-source, but some stay private or unuploaded.  
+They’re little fragments of myself, waiting for the right time to be seen.  
 
-  I create websites and small digital worlds quietly, at my own pace.  
-  Most of my projects are open-source, but some stay private or unuploaded.  
-  They’re little fragments of myself, waiting for the right time to be seen.  
+I love making **website templates**, sometimes free, sometimes premium.  
+If you ever use one, please leave a little **star ⭐**, it really makes me smile.  
+ありがとう... thank you so much <3  
 
-  <br>
-
-  I love making <b>website templates</b>, sometimes free, sometimes premium.  
-  If you ever use one, please leave a little <b>star ⭐</b>, it really makes me smile.  
-  ありがとう... thank you so much <3
-</div>
+<p align="center">
+  <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" 
+       width="400" height="800" 
+       style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0,0,0,0.15);" 
+       alt="Vireya Akane Profile Picture">
+</p>
 
 ---
 
