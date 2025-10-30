@@ -1,6 +1,9 @@
-<img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="256" align="right">
+<p align="right">
+  <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="256" height="256" style="border-radius: 50%; object-fit: cover;" />
+</p>
 
 # 🌷 Vireya Akane (ヴィレヤ・アカネ)
+
 > *"Soft doesn’t mean weak. Code can bloom beautifully too."* 🌸  
 
 Hi... I’m **Vireya Akane**, 19 y/o.  
