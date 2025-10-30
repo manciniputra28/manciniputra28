@@ -14,9 +14,9 @@ I love making **website templates**, sometimes free, sometimes premium.
 If you ever use one, please leave a little **star ⭐**, it really makes me smile.  
 ありがとう... thank you so much <3  
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" 
-       width="400" height="800" 
+       width="200" height="400" 
        alt="Vireya Akane Profile Picture">
 </p>
 
