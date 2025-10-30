@@ -17,7 +17,6 @@ If you ever use one, please leave a little **star ⭐**, it really makes me smil
 <p align="center">
   <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" 
        width="400" height="800" 
-       style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0,0,0,0.15);" 
        alt="Vireya Akane Profile Picture">
 </p>
 
