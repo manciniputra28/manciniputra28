@@ -1,10 +1,10 @@
-<p align="right">
-  <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="256" height="256" style="border-radius: 50%; object-fit: cover;" />
-</p>
-
-# 🌷 Vireya Akane (ヴィレヤ・アカネ)
-
-> *"Soft doesn’t mean weak. Code can bloom beautifully too."* 🌸  
+<div align="center">
+  <img src="https://github.com/manciniputra28/manciniputra28/blob/main/pfp.jpg?raw=true" width="160" height="160" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.1);" alt="Vireya Akane Profile Picture">
+  
+  <h1>🌷 Vireya Akane (ヴィレヤ・アカネ)</h1>
+  
+  <em>"Soft doesn’t mean weak. Code can bloom beautifully too." 🌸</em>
+</div>
 
 Hi... I’m **Vireya Akane**, 19 y/o.  
 My real name is **Mancini Putra**, but online I prefer to be known as **Vireya Akane**.  
