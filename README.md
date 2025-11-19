@@ -6,7 +6,7 @@
 
 <br />
 
-<!-- INTRO SECTION WITH IMAGE ON THE RIGHT -->
+<!-- INTRO SECTION -->
 
 <div align="center">
 <table border="0" align="center">
@@ -40,16 +40,32 @@ I love making <strong>website templates</strong>. If you ever use one, please le
 </table>
 </div>
 
-<!-- TECH & WORK SECTION -->
+<!-- STATS SECTION -->
+
+<div align="center">
+<h2>📊 Github Stats</h2>
+
+<!-- Menggunakan github-readme-stats dengan tema custom pink -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmanciniputra28%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26title_color%3Dff69b4%26icon_color%3Dffb6c1%26text_color%3D555" height="150" alt="stats graph" />
+
+
+
+
+
+<!-- Tech Stack Badges -->
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-FFB6C1%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="React" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-FFB6C1%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" alt="NextJS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-FFB6C1%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" alt="Tailwind" />
+</p>
+</div>
+
+<!-- WORK SECTION -->
 
 <div align="center">
 <h2>💻 What I Do</h2>
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Web_Templates-FFB6C1%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord_Bots-E6E6FA%3Fstyle%3Dflat-square%26logo%3Ddiscord%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/UMKM_Support-FFC0CB%3Fstyle%3Dflat-square%26logo%3Dshopware%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Student-Software_Engineering-pink%3Fstyle%3Dflat-square%26logo%3Dbookstack%26logoColor%3Dwhite" />
-</p>
 </div>
 
 🎀 Web Templates: I make soft and simple layouts.
@@ -95,13 +111,11 @@ I’ve been in <strong>social transition</strong> for about three years now. It�
 Sometimes, I have to blend in with the world outside and act like a boy, but when I’m home, I let myself breathe in soft colors. Some parts of me are hidden not because of shame, but to stay safe while still blooming.
 </details>
 
-<!-- CONTACT SECTION FIXED -->
+<!-- CONTACT SECTION -->
 
 <div align="center">
 <h2>💌 Contact & Reach Out</h2>
 <p>You can reach me via email or visit my card below.</p>
-
-<!-- HTML Table for perfect alignment without ugly borders -->
 
 <table border="0" align="center">
 <tbody>
@@ -130,15 +144,9 @@ Sometimes, I have to blend in with the world outside and act like a boy, but whe
 
 </div>
 
-<!-- FOOTER / GITHUB STATS -->
+<!-- FOOTER -->
 
 <div align="center">
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmanciniputra28%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26title_color%3Dff69b4%26icon_color%3Dffb6c1%26text_color%3D555" height="150" alt="stats graph" />
 
 
 
