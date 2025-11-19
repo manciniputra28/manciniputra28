@@ -31,7 +31,6 @@ I love making <strong>website templates</strong>. If you ever use one, please le
 
 
 <em>ありがとう... thank you so much <3</em>
-
 </p>
 </td>
 <td width="35%" align="center">
@@ -42,6 +41,7 @@ I love making <strong>website templates</strong>. If you ever use one, please le
 </div>
 
 <!-- TECH STACK & STATS SECTION (LAYOUT BOX 2 KOLOM) -->
+
 <div align="center">
 <h2>☁️ Tech & Stats</h2>
 <table border="0" align="center">
@@ -53,33 +53,54 @@ I love making <strong>website templates</strong>. If you ever use one, please le
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25"/>
-<br/>
+
+
+
+
+
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="25"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="25"/>
-<br/>
+
+
+
+
+
 <!-- Backend -->
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="25"/>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="25"/>
-<br/>
-<br/>
+
+
+
+
+
+
+
 <h3>🗄️ Data, Cloud & Tools</h3>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="23"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="23"/>
 <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="23"/>
 <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" height="23"/>
-<br/>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="23"/>
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="23"/>
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" height="23"/>
 </td>
 <td width="40%" align="center" valign="middle">
-<p><strong>📊 Live Stats</strong><br>
+<p><strong>📊 Live Stats</strong>
+
+
+
+
 <em>(Click to interact)</em></p>
 <a href="https://manciniputra.my.id/statsgraphgithub">
 <img src="https://github.com/manciniputra28/manciniputra28/blob/main/image.png?raw=true"
@@ -140,6 +161,7 @@ Sometimes, I have to blend in with the world outside and act like a boy, but whe
 </details>
 
 <!-- SUPPORT / PAYMENT SECTION -->
+
 <div align="center">
 <h2>💖 Support & Payments</h2>
 <p>If my work helps you, or you'd like to pay for a commission, I accept:</p>
@@ -147,16 +169,29 @@ Sometimes, I have to blend in with the world outside and act like a boy, but whe
 <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
 <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" />
 <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
-<br/>
+
+
+
+
+
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </p>
 </div>
 
-<!-- CONTACT SECTION --><div align="center">
+<!-- CONTACT SECTION (NEW LAYOUT) -->
 
-<h2>💌 Contact & Reach Out</h2>
-<p>You can reach me via email or visit my card below.</p>
+<div align="center">
+<h2>💌 Contact & Notice</h2>
+
+<table border="0" align="center" width="90%">
+<tr>
+<td width="50%" valign="top" align="center">
+<h3>📫 Reach Me</h3>
+
+
+
+
 
 <table border="0" align="center">
 <tbody>
@@ -179,9 +214,51 @@ Sometimes, I have to blend in with the world outside and act like a boy, but whe
 </tbody>
 </table>
 
-<a href="https://card.vryakn.xyz">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visit_My_Profile-card.vryakn.xyz-ffb6c1%3Fstyle%3Dfor-the-badge%26logo%3Dinternetexplorer%26logoColor%3Dwhite" />
-</a>
+
+
+
+
+<p>
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
+
+
+
+
+<code>@cursedgeneral</code>
+</p>
+</td>
+
+<td width="50%" valign="top" align="center">
+<h3>⚠️ Important Notice</h3>
+
+
+
+
+
+
+
+<p align="center">
+<strong>Jangan takedown tanpa mengirim email atau DM di Discord.</strong>
+</p>
+<p align="center">
+<em>Please do not takedown without sending an email or DM first.</em>
+</p>
+
+
+
+
+
+<p align="center">
+Let's solve any issues peacefully. 
+
+
+
+ Terima kasih. 🤝
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
