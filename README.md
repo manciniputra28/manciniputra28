@@ -9,7 +9,7 @@
 <!-- INTRO SECTION WITH IMAGE ON THE RIGHT -->
 
 <div align="center">
-<table border="0">
+<table border="0" align="center">
 <tr>
 <td width="65%" valign="top">
 <h1>🌷 Hi, I’m Vireya Akane</h1>
@@ -30,7 +30,7 @@ I love making <strong>website templates</strong>. If you ever use one, please le
 
 
 
-<em>ありがとう... thank you so much &lt;3</em>
+<em>ありがとう... thank you so much <3</em>
 </p>
 </td>
 <td width="35%" align="center">
@@ -95,31 +95,34 @@ I’ve been in <strong>social transition</strong> for about three years now. It�
 Sometimes, I have to blend in with the world outside and act like a boy, but when I’m home, I let myself breathe in soft colors. Some parts of me are hidden not because of shame, but to stay safe while still blooming.
 </details>
 
-<!-- CONTACT SECTION -->
+<!-- CONTACT SECTION FIXED -->
 
 <div align="center">
 <h2>💌 Contact & Reach Out</h2>
 <p>You can reach me via email or visit my card below.</p>
 
-Purpose
+<!-- HTML Table for perfect alignment without ugly borders -->
 
-Email
-
-🌸 Main
-
-github@vryakn.xyz
-
-💼 Business
-
-business@vryakn.xyz
-
-☁️ Personal
-
-contact@vryakn.xyz
-
-⚖️ Copyright
-
-copyright@vryakn.xyz
+<table border="0" align="center">
+<tbody>
+<tr>
+<td align="right" style="padding-right: 15px;">🌸 <strong>Main</strong></td>
+<td align="left"><code>github@vryakn.xyz</code></td>
+</tr>
+<tr>
+<td align="right" style="padding-right: 15px;">💼 <strong>Business</strong></td>
+<td align="left"><code>business@vryakn.xyz</code></td>
+</tr>
+<tr>
+<td align="right" style="padding-right: 15px;">☁️ <strong>Personal</strong></td>
+<td align="left"><code>contact@vryakn.xyz</code></td>
+</tr>
+<tr>
+<td align="right" style="padding-right: 15px;">⚖️ <strong>Copyright</strong></td>
+<td align="left"><code>copyright@vryakn.xyz</code></td>
+</tr>
+</tbody>
+</table>
 
 <a href="https://card.vryakn.xyz">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Visit_My_Profile-card.vryakn.xyz-ffb6c1%3Fstyle%3Dfor-the-badge%26logo%3Dinternetexplorer%26logoColor%3Dwhite" />
@@ -127,7 +130,7 @@ copyright@vryakn.xyz
 
 </div>
 
-<!-- FOOTER / GITHUB STATS (Optional, keeping it pink/soft) -->
+<!-- FOOTER / GITHUB STATS -->
 
 <div align="center">
 
